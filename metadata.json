@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "Personal AI Intelligence Platform with multi-provider API support, custom personas, and real-time streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
